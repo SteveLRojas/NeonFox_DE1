@@ -1,0 +1,3 @@
+Warning (10273): Verilog HDL warning at sdr.sv(985): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at sdr.sv(988): extended using "x" or "z"
+Warning (10268): Verilog HDL information at sdr.sv(201): always construct contains both blocking and non-blocking assignments
